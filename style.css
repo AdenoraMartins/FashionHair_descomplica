@@ -1,0 +1,32 @@
+body {
+    background-color: #4e5252;
+}
+header{
+    background-color: #eaf4f4;
+}
+header h1 {
+    padding-left: 30px;
+    margin: 10px;
+}
+section {
+    margin: 10px;
+    display: flex;
+}
+figure {
+    display: flex;
+    width: auto;  
+}
+ul li a {
+    color: #f0f8ff;
+    text-decoration:none;
+}
+ul li a:hover {
+    color: #0b0b0b;
+    text-decoration:none;
+}
+#card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
